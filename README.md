@@ -1,4 +1,4 @@
-# Hamming Distance of 2 DNA strings of the same length
+# A JAVA program computing Hamming Distance of 2 DNA strings of the same length
 
 A DNA string is a string consisting of the alphabet A, C, G, and T (adenine, cytosine, guanine, and thymine). This program  will take two strings of DNA as input and collect and print some basic statistics for both strings. The statistics include:
 
